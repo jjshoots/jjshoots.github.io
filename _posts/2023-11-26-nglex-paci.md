@@ -42,7 +42,7 @@ This is the path we took over 23 days:
 <img src="{{ site.base_path }}/resources/posts/nglex/trajectory.jpg" width="100%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">Tracking data courtesy of Marco Pizzolato, a guest and now friend aboard the ship.</p>
 
-The image is not the clearest thing in the world, so for those who are more inclined to see the path we took, [here]({{ site.bas_path }}/resources/posts/nglex/PacificTrip.kml) is the file with the tracking data that you can upload into Google Earth to view with better resolution.
+The image is not the clearest thing in the world, so for those who are more inclined to see the path we took, [here]({{ site.bas_path }}/resources/posts/nglex/PacificTrip.kml) is the tracking data that you can upload to Google Earth for a better view.
 The journey itself took us to the following islands in order:
 
 1. Koror, Palau
