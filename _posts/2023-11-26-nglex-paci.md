@@ -102,7 +102,7 @@ This meant I was on the bridge a whole lot - you can't blame me, lots of things 
 <p style="text-align: center;">Some instruments on a side control console.</p>
 <br>
 <img src="{{ site.base_path }}/resources/posts/nglex/bridge4.jpg" width="80%%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Navigating into the Pohnpei (I think?).</p>
+<p style="text-align: center;">Navigating into Pohnpei (I think?).</p>
 <br>
 <img src="{{ site.base_path }}/resources/posts/nglex/bridge5.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">How to park a ship step 1: look cool.</p>
