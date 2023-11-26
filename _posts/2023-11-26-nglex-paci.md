@@ -96,7 +96,7 @@ The ship operates an "open bridge policy", a policy where anyone at any time is 
 This meant I was on the bridge a whole lot - you can't blame me, lots of things to geek out about there.
 
 <img src="{{ site.base_path }}/resources/posts/nglex/bridge1.jpg" width="80%%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Wide angle view of the bridge and one of the drones (that I helped fix 😬)</p>
+<p style="text-align: center;">Wide angle view of the bridge and one of the drones in the bottom left corner (that I helped fix 😬)</p>
 <br>
 <img src="{{ site.base_path }}/resources/posts/nglex/bridge3.jpg" width="80%%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">Some instruments on a side control console.</p>
