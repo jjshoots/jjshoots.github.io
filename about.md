@@ -23,4 +23,6 @@ There is something truly uncanny about having a machine feel like an extension o
 In my free time, I fly FPV drones and play various musical instruments - machines augmenting my ability to perceive and influence the world.
 I also enjoy cars, although I try to reduce my usage of them now as they are terrible machines for the environment.
 
-[**My CV**]({{ site.baseurl }}/resources/frontpages/CV.pdf)
+This is not a place I brag about myself - GitHub, LinkedIn, and Google Scholar are there should you so be inclined.
+Instead, I intend to record lesser known things and projects that I'm doing here.
+However, if you insist: [**here's my CV**]({{ site.baseurl }}/resources/frontpages/CV.pdf).

@@ -35,4 +35,4 @@ I miss being hopeful without needing to pep talk myself.
 And while skyscraper moments are genuine, pep talks can be deceptive.
 
 <br>
-<img src="{{ site.base_path }}/resources/postresources/postser/moment.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/skyscraper/moment.jpg" width="80%" style="display:block;margin:0 auto;">
