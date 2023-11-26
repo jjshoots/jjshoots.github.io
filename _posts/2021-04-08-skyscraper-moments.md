@@ -2,9 +2,8 @@
 layout: post
 title: Skyscraper Moments
 subtitle: IDK, just some thoughts about having hope.
+background: /resources/posts/skyscraper/skyscraper.jpg
 ---
-
-<img src="{{ site.base_path }}/resources/posts/skyscraper/skyscraper.jpg" width="80%" style="display:block;margin:0 auto;">
 
 ### So, I'm back...
 At this rate I'll end up only making one blog post per year, I guess I don't often feel like things warrant being written about. What's actually been happening is I'm currently in the UK, far away from home, pursuing a PhD that I _think_ is what I want to do. The reality is I'm not so sure why I'm doing and I'm not sure of what I'm going to do after a PhD - and academia isn't one of them.
