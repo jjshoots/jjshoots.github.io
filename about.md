@@ -5,7 +5,7 @@ background: /resources/frontpages/me_with_plane.jpg
 permalink: /about/
 ---
 
-But for those on the formal side: (First Name) Jun Jet (Last Name) Tai.
+### But for those on the formal side: (First Name) Jun Jet (Last Name) Tai.
 
 I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
 My current location is Coventry, United Kingdom.
