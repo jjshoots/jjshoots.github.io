@@ -156,11 +156,11 @@ For me, this was a bucket list item ticked off before it even entered the list.
 These are wildlife creatures that I didn't have the chance to get on a digital media format, but nevertheless will record here for my memory:
 
 1. **Flying fish**, arguably saw very late into the journey but very memorable
-2. **Black tip reef sharks** on one of the many snorkeling sessions we did
-3. **Cuttlefish**, apparently super rare to see during snorkeling
-4. **Stingrays**, yes I swam with them
+2. **Black tip reef sharks**, absolutely sexy
+3. **Cuttlefish**, apparently super rare to see while snorkeling
+4. **Stingrays**, yes, I swam with them
 5. **Sea cucumber**, like a big shit
-6. **Pilot Whales**, a group of 150 - about 3 pods
+6. **Pilot Whales**, a group of about 150 - possibly 3 pods
 
 Throughout the journey, we had about 10 sessions where we could snorkel, and all of them were execellent - no pollution, crystal clear water, teeming with wildlife.
 Here are some of the videos I have, these were taken with my phone at the time (Samsung Galaxy S10) through a plastic pouch.
