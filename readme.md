@@ -9,3 +9,7 @@
       ```
 2. Install gems: `bundle install`
 3. Build the website and host locally: `bundle exec jekyll serve`
+
+## Modifying template
+
+The template is under `_includes/`, modify as suitable.
