@@ -14,15 +14,18 @@ But the topic of today is about an extraordinary opportunity I've had about join
 ### The person responsible
 
 Gratitude where gratitude is due, I wouldn't have gotten this opportunity if it weren't for the gracious invite of [Adi Gajigan](https://andriangajigan.com/) (last name pronounced 'gah-hee-gun').
-Adi is a National Geographic explorer and oceanographer who studies (and is practically obsessed with) plankton and its importance to the planet.
+Adi is a National Geographic explorer and oceanographer at the University of Hawaii who studies (and is practically obsessed with) plankton and its importance to the planet.
 I have worked with Adi over the past year on using computer vision to classify and quantify plankton populations across various parts of the ocean, and when Lindblad Expeditions and the National Geographic Society reached out to him on an opportunity to sample across the remote pacific ocean aboard an expedition cruise ship, he generously decided to invite me along.
 
 <img src="{{ site.base_path }}/resources/posts/nglex/adi.jpg" width="80%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Left: Adi Gajigan, Right: me</p>
+<p style="text-align: center;">Left: Adi, Right: me; The second day, where we scoured the island of Palau in search of confiscated scientific equipment.</p>
 
 Alongside the two of us was also a high school teacher from New Hampshire, United States.
 Her name was Kelly Blais (pronounced Kelly Blah) and she was part of the [National Geographic Society Grosvenor Teacher Fellowship](https://www.nationalgeographic.org/society/education-resources/professional-development/grosvenor-teacher-fellows/), a scheme where examplary educators are invited aboard various voyages.
-The key intention here is for teachers to bring their onboard experiences into the classroom, allowing students and colleagues experience a higher level of geographic awareness.
+The key intention here is for teachers to bring their onboard experiences into the classroom, allowing students and colleagues access to a higher level of geographic awareness.
+
+<img src="{{ site.base_path }}/resources/posts/nglex/kelly.jpg" width="80%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">Left: Adi, Middle: Kelly, Right: me; On Butaritari Atoll. PC: Kelly Blais</p>
 
 ### What is a National Geographic Lindblad Expedition?
 
@@ -80,11 +83,17 @@ Throughout the journey, the ship burned about USD 1.2 million in marine diesel.
 That's a whopping 35 tonnes of fuel a day, which works out to about 332 litres of diesel per person on board the vessel per day (there were about 120 people on the ship, staff included).
 That's a very sobering number, and while I don't have anything greenwashing to say, I thought it's important to put it out there.
 
+While we were on the ship, we were posted in the Science Hub.
+A very cool venue where we had surround screens and enough desk space to host all our equipment.
+Intrigued guests could come in at any time and ask questions and engage in the science that we were doing onboard.
+
+<img src="{{ site.base_path }}/resources/posts/nglex/science_hub.jpg" width="80%%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">The Science Hub aboard the National Geographic Resolution. PC: Kelly Blais</p>
+
 ##### Open Bridge Policy
 
 The ship operates an "open bridge policy", a policy where anyone at any time is allowed on the bridge to observe crew activity.
-This meant I was on the bridge a whole lot.
-You can't blame me, lots of things to geek about there.
+This meant I was on the bridge a whole lot - you can't blame me, lots of things to geek out about there.
 
 <img src="{{ site.base_path }}/resources/posts/nglex/bridge1.jpg" width="80%%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">Wide angle view of the bridge and one of the drones (that I helped fix 😬)</p>
