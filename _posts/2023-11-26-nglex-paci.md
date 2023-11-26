@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journey Across the Remote Pacific
-subtitle: My expedition across the most remote locations in the pacific ocean with National Geographic and Lindblad Expeditions.
+subtitle: My expedition with National Geographic and Lindblad Expeditions.
 background: /resources/posts/nglex/shiptop_sunset.jpg
 ---
 
