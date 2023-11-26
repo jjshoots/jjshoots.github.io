@@ -13,7 +13,7 @@ But the topic of today is about an extraordinary opportunity I've had about join
 
 ### The person responsible
 
-Gratitude where gratitude is due, I wouldn't have gotten on the ship if it wasn't for the gracious invite of [Adi Gajigan](https://andriangajigan.com/) (last name pronounced 'gah-hee-gun').
+Gratitude where gratitude is due, I wouldn't have gotten this opportunity if it weren't for the gracious invite of [Adi Gajigan](https://andriangajigan.com/) (last name pronounced 'gah-hee-gun').
 Adi is a National Geographic explorer and oceanographer who studies (and is practically obsessed with) plankton and its importance to the planet.
 I have worked with Adi over the past year on using computer vision to classify and quantify plankton populations across various parts of the ocean, and when Lindblad Expeditions and the National Geographic Society reached out to him on an opportunity to sample across the remote pacific ocean aboard an expedition cruise ship, he generously decided to invite me along.
 
