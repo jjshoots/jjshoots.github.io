@@ -272,16 +272,25 @@ A marae is a communal sacred place that serves religious and social purposes in 
 It is a rectangle piece of land that is bordered with stones and has a floor made also of stones.
 Supposedly, each stone comes from a different place in the entirety of Polynesia.
 
+<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea1.jpg" width="100%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">Entrance into Raiatea.</p>
+<br>
+<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea0.jpg" width="100%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">Where the ship was parked, dynamic positioning is amazing.</p>
+
 Taputapuatea marae is considered the central temple and religious center of Polynesia.
 In Jennifer Kingsley's words, Taputapuatea roughly translates to sacred sacred land of sacredness.
 So clearly, this was important to the Polynesians.
 So important in fact, that under the usual circumstances, no outsider was allowed into the compound.
 
-However, in our particular case, we had Polynesian master navigator Teuatakiri Pittman, AKA Tua Pittman, AKA Tua, with us.
+Contrary to the usual circumstance, we had Polynesian master navigator Teuatakiri Pittman, AKA Tua Pittman, AKA Tua, with us.
 Beyond just being a living legend, Tua has many roots and is very well respected across Polynesia.
 I won't do a complete write up on him - Jennifer Kingsley is already working on that, read her book when it comes out.
 For the purposes of this story, one of Tua's many friends (really more like a brother) is a man of royal Polynesian descent.
 This man's name is Matarae, and through a sacred communication with the heavens, the spiritual gates of Taputapuatea could be opened to us outsiders.
+
+<iframe style="display: block; margin: auto" width="560" height="315" src="https://www.youtube.com/embed/ruJx0_HL-Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p style="text-align: center;">The meeting between Tua Pittman and Matarae. Jump to the end to witness a brotherly hug.</p>
 
 We got to enter both(!) maraes at Taputapuatea that day.
 The first was a bigger compound of slightly less cultural significance, at the far end of the marae was a shrine of sorts, with various tea leaf branches layered neatly.
@@ -289,6 +298,12 @@ The second compound was the supposedly more significant one, with a large white 
 Tradition has it that the son of a polynesian creationist god was born at that very stone.
 I'm no historian, so I won't try to describe any more than this for fear of mentioning something completely wrong and getting cancelled.
 Remember, Google is your friend.
+
+<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea_site1.jpg" width="100%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">The first marae we entered.</p>
+<br>
+<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea_site1_shrine.jpg" width="100%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">The shrine at the first marae.</p>
 
 No shoes were allowed within both compounds, a similar status quo to entering temples from other cultures.
 Going from wet grass outside the compound to dry stone within the compound, the first thing I noticed was the sun-baked warmth from the rocks which made up the floor.
@@ -301,21 +316,6 @@ If you asked me what I felt, I felt that I had no connection to my past beyond m
 But maybe that's because I'm just 26 and a sojourner in life.
 Anyway, here's the visual content that you really came here for.
 
-<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea1.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Entrance into Raiatea.</p>
-<br>
-<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea0.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Where the ship was parked, dynamic positioning is amazing.</p>
-<br>
-<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea2.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Some information about the site</p>
-<br>
-<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea_site1.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">The first marae we entered.</p>
-<br>
-<img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea_site1_shrine.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">The shrine at the first marae.</p>
-<br>
 <img src="{{ site.base_path }}/resources/posts/nglex/taputapuatea_site2.jpg" width="100%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">The second marae, with Tua Pittman at the entrance.</p>
 <br>
