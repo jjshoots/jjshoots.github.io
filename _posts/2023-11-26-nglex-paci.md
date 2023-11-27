@@ -352,18 +352,18 @@ There was a 7 course introductory dinner at the beginning.
 Your room is cleaned once every two days and they use the highest thread count bed sheets I have ever seen.
 Here are pictures:
 
-<img src="{{ site.base_path }}/resources/posts/nglex/sushi.jpg" width="60%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/sushi.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">Sushi spread for tea time</p>
 <br>
-<img src="{{ site.base_path }}/resources/posts/nglex/food1.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/food2.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/food3.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/food4.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/dessert1.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/dessert3.jpg" width="60%" style="display:block;margin:0 auto;">
-<img src="{{ site.base_path }}/resources/posts/nglex/dessert4.jpg" width="60%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/food1.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/food2.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/food3.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/food4.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/dessert1.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/dessert3.jpg" width="80%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/dessert4.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">Food onboard.</p>
 <br>
-<img src="{{ site.base_path }}/resources/posts/nglex/staff_room.jpg" width="60%" style="display:block;margin:0 auto;">
+<img src="{{ site.base_path }}/resources/posts/nglex/staff_room.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">The room that me an Adi shared. This is a staff room and not what paying guests experience.</p>
 
