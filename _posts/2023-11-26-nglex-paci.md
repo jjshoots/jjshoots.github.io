@@ -21,7 +21,7 @@ I have worked with Adi over the past year on using computer vision to classify a
 <p style="text-align: center;">Left: Adi, Right: me; The second day, where we scoured the island of Palau in search of confiscated scientific equipment.</p>
 
 Alongside the two of us was also a high school teacher from New Hampshire, United States.
-Her name was Kelly Blais (pronounced Kelly Blah) and she was part of the [National Geographic Society Grosvenor Teacher Fellowship](https://www.nationalgeographic.org/society/education-resources/professional-development/grosvenor-teacher-fellows/), a scheme where examplary educators are invited aboard various voyages.
+Her name is Kelly Blais (pronounced Kelly Blah) and she was part of the [National Geographic Society Grosvenor Teacher Fellowship](https://www.nationalgeographic.org/society/education-resources/professional-development/grosvenor-teacher-fellows/), a scheme where examplary educators are invited aboard various voyages.
 The key intention here is for teachers to bring their onboard experiences into the classroom, allowing students and colleagues access to a higher level of geographic awareness.
 
 <img src="{{ site.base_path }}/resources/posts/nglex/kelly.jpg" width="100%" style="display:block;margin:0 auto;">
