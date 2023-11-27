@@ -367,3 +367,9 @@ Here are pictures:
 <img src="{{ site.base_path }}/resources/posts/nglex/staff_room.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">The room that me an Adi shared. This is a staff room and not what paying guests experience.</p>
 
+### Disclaimers
+
+I have over 40 GB worth of images and videos, ask me if you want to see anything in more detail.
+
+All thoughts and opinions are mine and do not represent that of National Geographic, Lindblad Expeditions, or any of their staff and guests.
+
