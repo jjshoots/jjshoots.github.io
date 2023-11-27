@@ -273,7 +273,7 @@ It is a rectangle piece of land that is bordered with stones and has a floor mad
 Supposedly, each stone comes from a different place in the entirety of Polynesia.
 
 Taputapuatea marae is considered the central temple and religious center of Polynesia.
-In Jennifer Kingsley's and Tua Pittman's words, Taputapuatea roughly translates to sacred sacred land of sacredness.
+In Jennifer Kingsley's words, Taputapuatea roughly translates to sacred sacred land of sacredness.
 So clearly, this was important to the Polynesians.
 So important in fact, that under the usual circumstances, no outsider was allowed into the compound.
 
