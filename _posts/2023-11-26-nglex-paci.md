@@ -2,6 +2,7 @@
 layout: post
 title: Journey Across the Remote Pacific
 subtitle: My expedition with National Geographic and Lindblad Expeditions.
+author: Jet
 background: /resources/posts/nglex/shiptop_sunset.jpg
 ---
 

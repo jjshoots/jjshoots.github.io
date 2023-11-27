@@ -2,6 +2,7 @@
 layout: post
 title: Airbus Innovation Fun Day Challenge 2019
 subtitle: Going in with the lowest expectation only to come out with the highest achievement.
+author: Jet
 ---
 
 ### About

@@ -2,6 +2,7 @@
 layout: post
 title: Skyscraper Moments
 subtitle: IDK, just some thoughts about having hope.
+author: Jet
 background: /resources/posts/skyscraper/skyscraper.jpg
 ---
 
