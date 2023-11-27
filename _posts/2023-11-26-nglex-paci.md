@@ -62,7 +62,7 @@ I probably won't do a detailed write up of each location (I'm not hardworking en
 ### The National Geographic Resolution
 
 The ship that I was on is the National Geographic Resolution - an exceedingly capable ship meant to traverse the Arctic and Antarctica regions.
-During my time there, the ship was helmed by Captain Martin Graser along with staff captain Iurii (Yuri) Bratash, first safety officer Efrem Ghirmai, ice navigation officer Finn Mackeprang (we saw no ice, obviously), and navigation officer Natalia Zameliukhina.
+During my time there, it was helmed by Captain Martin Graser along with staff captain Iurii (Yuri) Bratash, first safety officer Efrem Ghirmai, ice navigation officer Finn Mackeprang (we saw no ice, obviously), and navigation officer Natalia Zameliukhina.
 
 <img src="{{ site.base_path }}/resources/posts/nglex/natgeo_resolution.jpg" width="100%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">The National Geographic Resolution</p>
