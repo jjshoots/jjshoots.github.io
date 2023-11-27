@@ -328,7 +328,7 @@ Anyway, here's the visual content that you really came here for.
 ### People
 
 All of the people aboard the ship have been incredibly inspiring, and I think this will be the aspect I miss the most.
-From Captain Martin Graser with his can-do attitude when dealing with a USD 150M ship to the hotel staff striving to deliver the best experience 110% of the time,here are some of the people I want to give special attention to.
+From Captain Martin Graser with his can-do attitude when dealing with a USD 150M ship to the hotel staff striving to deliver the best experience 110% of the time, here are some of the people I want to give special attention to.
 
 - **Captain Martin Graser**: I can see why he's captain. Playful and non-chalant when necessary, but strict and regimented when at the helm. Aside from that, he's also incredibly logical with his thinking, and no afraid to call out bullshit. Also let me have a hand at fixing both ship navigation drones.
 - **Andy Wolff**: Incredibly detail oriented but with copious amounts of empathy under the hood. I admire his commitment to his work and sometimes wish I could see him just swear a bit because of the amount of stress he's under.
