@@ -290,7 +290,7 @@ For the purposes of this story, one of Tua's many friends (really more like a br
 This man's name is Matarae, and through a sacred communication with the heavens, the spiritual gates of Taputapuatea could be opened to us outsiders.
 
 <iframe style="display: block; margin: auto" width="560" height="315" src="https://www.youtube.com/embed/ruJx0_HL-Vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p style="text-align: center;">The meeting between Tua Pittman and Matarae. Jump to the end to witness a brotherly hug.</p>
+<p style="text-align: center;">The meeting between Tua Pittman and Matarae, with the first marae in the background. Jump to the end to witness a brotherly hug.</p>
 
 We got to enter both(!) maraes at Taputapuatea that day.
 The first was a bigger compound of slightly less cultural significance, at the far end of the marae was a shrine of sorts, with various tea leaf branches layered neatly.
