@@ -194,7 +194,7 @@ In between the transit from Guam to Chuuk, Captain Martin made the impromptu dec
 This necessitated a whole lot of work from the expedition staff (looking at Andy and Alexandra) to obtain the necessary green lights to make it happen.
 Ultimately, we got what we needed, and we were allowed on shore via Zodiacs.
 
-The island's name is Magur, and it hosts exactly one primary school and Church.
+The island's name is Magur, and it hosts exactly one primary school and church.
 Many amenities were non-existent - no power and sewage grids and don't hope for roads.
 Instead, people there survive via subsistence farming - farming only what they needed and living off the land and sea.
 I found it impressive that one of the local houses had a Frigate bird as a pet!
@@ -267,7 +267,7 @@ There were also several song requests from the hotel staff onboard, but my piano
 The emotional highlight of the trip for me happened here.
 Raiatea or Ra'iatea (pronounced Rah-ee-uh-tee-uh) is an island near Bora-Bora, just west-north-west of Tahiti.
 It is known traditionally to the Māori people as Havai'i (not to be confused with Hawaii).
-On Raiatea itself is Taputapuatea marae (pronounces Ta-pu-ta-pu-ah-tee-ah ma-ray).
+On Raiatea itself is Taputapuatea marae (pronounced Ta-pu-ta-pu-ah-tee-ah ma-ray).
 A marae is a communal sacred place that serves religious and social purposes in Polynesian societies.
 It is a rectangle piece of land that is bordered with stones and has a floor made also of stones.
 Supposedly, each stone comes from a different place in the entirety of Polynesia.
