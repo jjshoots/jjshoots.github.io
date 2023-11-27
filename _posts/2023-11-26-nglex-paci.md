@@ -292,7 +292,7 @@ Remember, Google is your friend.
 
 No shoes were allowed within both compounds, a similar status quo to entering temples from other cultures.
 Going from wet grass outside the compound to dry stone within the compound, the first thing I noticed was the sun-baked warmth from the rocks which made up the floor.
-The second thing I noticed was the incredibly sombre atmosphere inside the compound versus the outside, a similar atmosphere when entering any temple or center of cultural significance.
+The second thing I noticed was the incredibly sombre atmosphere inside the compound versus the outside, a similar atmosphere when entering any temple or center of cultural significance, despite the marae having no walls or ceiling.
 Here, Tua chanted a blessing in a Polynesian tongue for Assistant Expedition Leader (AEL) Alexandra Kristjánsdóttir, Hotel Manager Juan Sebastian, and Captain Martin, blessing them with safe travels on all future voyages.
 
 At the second marae, the more significant one, everyone got a chance to touch the stone.
