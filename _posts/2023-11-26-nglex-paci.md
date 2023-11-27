@@ -309,6 +309,9 @@ No shoes were allowed within both compounds, a similar status quo to entering te
 Going from wet grass outside the compound to dry stone within the compound, the first thing I noticed was the sun-baked warmth from the rocks which made up the floor.
 The second thing I noticed was the incredibly sombre atmosphere inside the compound versus the outside, a similar atmosphere when entering any temple or center of cultural significance, despite the marae having no walls or ceiling.
 Here, Tua chanted a blessing in a Polynesian tongue for Assistant Expedition Leader (AEL) Alexandra Kristjánsdóttir, Hotel Manager Juan Sebastian, and Captain Martin, blessing them with safe travels on all future voyages.
+Right after the ceremony happened, a light drizzle started and two white birds took off from the nearby mountain.
+We were told that this symbolizes that the heavens have accepted us for who we are.
+It was at this point that I asked local astrophysicist and UC Berkeley professor Steve Croft, "do you still think the universe is fundamentally random?"
 
 At the second marae, the more significant one, everyone got a chance to touch the stone.
 This action is meant to symbolize a connection between you and all your ancestors of past, and all the spirts of your future.
