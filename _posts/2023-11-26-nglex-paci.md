@@ -223,7 +223,7 @@ If anything, I'd like to rephrase the words of expedition staff and National Geo
 
 ##### Experiencing the calming dulldrums at the planet's thermal equator
 
-The Intertropical Convergence Zone, AKA dulldrums, are a zone over the thermal equator known for its monotonous windless weather.
+The Intertropical Convergence Zone, AKA dulldrums, is a zone over the thermal equator known for its monotonous windless weather.
 Expedition staff Joe Holliday can probably tell you everything about it.
 This was mesmerizing to me because I have never seen the ocean _that_ calm before, it was practically a sheet of glass.
 Since we were travelling South into the thermal equator at the time, the ocean just got calmer and calmer as the day passed.
