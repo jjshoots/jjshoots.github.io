@@ -10,14 +10,11 @@ permalink: /about/
 That's for those on the formal side.
 
 I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
-My current location is Coventry, United Kingdom.
+My current location is Tokyo, Japan, where I am currently interning for Sony AI.
+I'm classify myself as a software engineer, with a PhD specialization in AI and UAVs.
 
-I'm a software engineer by trade, with a PhD in artificial intelligence and unmanned aerial vehicles.
-My specialization includes reinforcement learning, computer vision, optimal control and robotics.
-I also have experience in large language models, Linux-based operating systems, CAD modelling, 3D printing and wireless hacking.
-My favourite text editor is (Neo)Vim and my life motto is: **Build Cool Shit, Reduce World Suck**, if that tells you anything.
-
-My interests lie in systems that augment human capabilities, such as aircraft fly-by-wire systems, reinforcement learning for next-best-move prediction, and modifying Vim to create the world's best code editor for myself.
+My life motto is: **Build Cool Shit, Reduce World Suck**, if that tells you anything.
+My interests lie in systems that augment human capabilities, such as aircraft fly-by-wire systems, reinforcement learning for next-best-move prediction, and modifying (Neo)Vim to create the world's best code editor for myself.
 There is something truly uncanny about having a machine feel like an extension of self that drives my interest in everything I do.
 
 In my free time, I fly FPV drones and play various musical instruments - machines augmenting my ability to perceive and influence the world.
