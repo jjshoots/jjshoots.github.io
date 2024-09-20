@@ -2,7 +2,7 @@ name: Downloads my CV from central server
 
 on:
   schedule:
-    - cron: '0 14 * * *'
+    - cron: '0 6 * * *'
 
 jobs:
   check-for-cv-update:
