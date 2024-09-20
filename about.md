@@ -18,6 +18,4 @@ There is something truly uncanny about having a machine feel like an extension o
 
 This is not a place I brag about myself - GitHub, LinkedIn, and Google Scholar are there should you so be inclined.
 Instead, I intend to record lesser known things and projects that I'm doing here.
-However, if you insist: [**here's my CV**](https://jjshoots.ddns.net:8190/api/public/dl/kCFhE3Q9?inline=true).
-
-<p style="text-align: center;">All opinions expressed on this website are my own.</p>
+However, if you insist: [**here's my CV**]({{ site.base_path }}/assets/CV_JUNJETTAI.pdf).

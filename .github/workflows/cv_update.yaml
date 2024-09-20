@@ -1,0 +1,38 @@
+name: Downloads my CV from central server
+
+on:
+  schedule:
+    - cron: '0 14 * * *'
+
+jobs:
+  check-for-cv-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch CV from server
+        run: |
+          # Fetch the CV from the server using a secret for the URL
+          curl -o cv.pdf "${{ secrets.CV_DOWNLOAD_URL }}"
+
+      - name: Compare with current CV
+        run: |
+          # create the file incase it doesn't exist
+          touch assets/CV_JUNJETTAI.pdf
+
+          # compare and commit
+          if ! cmp -s cv.pdf assets/CV_JUNJETTAI.pdf; then
+            # override CV
+            echo "New CV found. Updating..."
+            mv cv.pdf assets/CV_JUNJETTAI.pdf
+
+            # commit
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add assets/CV_JUNJETTAI.pdf
+            git commit -m "Update CV"
+            git push
+          else
+            echo "No updates found."
