@@ -10,7 +10,7 @@ permalink: /about/
 That's for those on the formal side.
 
 I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
-My current location is Tokyo, Japan, where I am currently interning for Sony AI.
+My current location is Tokyo, Japan, where I am currently with Sony AI.
 I classify myself as a software engineer, with a PhD specialization in AI and UAVs.
 
 My interests lie in systems that augment human capabilities, such as aircraft fly-by-wire systems, reinforcement learning for next-best-move prediction, and modifying (Neo)Vim to create the world's best code editor for myself.
