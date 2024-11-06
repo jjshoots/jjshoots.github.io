@@ -15,8 +15,13 @@ jobs:
 
       - name: Fetch CV from server
         run: |
-          # Fetch the CV from the server using a secret for the URL
-          curl -o cv.pdf "${{ secrets.CV_DOWNLOAD_URL }}"
+          # attempt to download the CV and check if it succeeds
+          if curl -L --fail -o cv.pdf "${{ secrets.CV_DOWNLOAD_URL }}"; then
+            echo "CV downloaded successfully."
+          else
+            echo "CV download failed. Exiting silently."
+            exit 0
+          fi
 
       - name: Compare with current CV
         run: |
