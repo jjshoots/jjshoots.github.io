@@ -1,4 +1,4 @@
-name: Downloads my CV from central server
+name: cv_download
 
 on:
   schedule:
