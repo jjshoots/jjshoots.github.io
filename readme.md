@@ -8,7 +8,7 @@
       set -gx PATH $HOME/any/path/to/gems/bin $PATH
       ```
 2. Install gems: `bundle install`, **skip step 2 to avoid modifying path**
-3. Setup the environment by calling `./env_setup.sh`.
+3. Setup the environment by calling `source env.fish`, this requires the fish shell.
 4. Build the website and host locally: `bundle exec jekyll serve`
 
 ## Running on a local
