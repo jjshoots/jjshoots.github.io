@@ -31,7 +31,7 @@ instagram_username: jj_shoots
 
 # Build settings
 # TODO: COMMENT THIS ON REMOTE
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
