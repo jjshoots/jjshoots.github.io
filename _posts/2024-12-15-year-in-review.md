@@ -101,9 +101,6 @@ _Wherever you are, be all there._
 <img src="{{ site.base_path }}/resources/posts/review_2024/kimi_no_nawa.jpg" width="80%" style="display:block;margin:0 auto;">
 <p style="text-align: center;">A replicated shot from the film "Kimi No Na Wa" / "Your Name" taken from the Tokyo National Arts Center.</p>
 
-<img src="{{ site.base_path }}/resources/posts/review_2024/tokyo_station.jpg" width="100%" style="display:block;margin:0 auto;">
-<p style="text-align: center;">Tokyo - my favourite city by far (at the time of writing).</p>
-
 #### The Destination or the Journey?
 
 **The Company**.
@@ -118,6 +115,9 @@ But this year, I’ve started to understand a hard truth: there’s no finish li
 This realization isn’t new --- it’s the kind of thing you hear in passing and nod along to.
 But there’s a difference between knowing something and truly _feeling_ its weight.
 That weight didn’t settle on me until late this year.
+
+<img src="{{ site.base_path }}/resources/posts/review_2024/tokyo_station.jpg" width="100%" style="display:block;margin:0 auto;">
+<p style="text-align: center;">Tokyo - my favourite city by far (at the time of writing).</p>
 
 Maybe it's because I'm now swimming with the sharks --- extremely talented researchers known for ground-breaking work, constantly feeling like I'll never reach their level.
 Or maybe it's because I've drifted from the friends who defined my early adulthood.
@@ -138,7 +138,8 @@ Maybe it's about who we become, who we allow ourselves to be, and who we share t
 #### Wrapping Up
 
 I’m grateful for where I am and for the chance to realize I’d lost my way for a time. As 2024 winds down, I’m optimistic about what’s ahead.
-Oh, it's also December 16.
+
+It's December 16 afterall.
 
 #### Some of the amazing folks on this year's journey
 
