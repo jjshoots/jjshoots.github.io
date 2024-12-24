@@ -8,7 +8,6 @@
 ## Running on a local
 
 1. In `Gemfile`, uncomment line 11, comment line 17.
-2. In `_config.yml`, uncomment line 34.
 
 ## Modifying template
 

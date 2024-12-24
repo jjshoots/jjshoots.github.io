@@ -30,11 +30,6 @@ linkedin_username: jun-jet-t
 instagram_username: jj_shoots
 
 # Build settings
-# TODO: COMMENT THIS ON REMOTE
-# theme: jekyll-theme-clean-blog
-# CHANGE THE BELOW:
-# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-# TO THIS
 remote_theme: jjshoots/jjshoots_website_theme
 plugins:
   - jekyll-feed
