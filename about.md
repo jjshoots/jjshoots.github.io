@@ -8,14 +8,18 @@ permalink: /about/
 ### (First Name) Jun Jet (Last Name) Tai.
 
 That's for those on the formal side.
-
 I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
-My current location is Tokyo, Japan, where I am currently with Sony AI.
-I classify myself as a software engineer, with a PhD specialization in AI and UAVs.
 
-My interests lie in systems that augment human capabilities, such as aircraft fly-by-wire systems, reinforcement learning for next-best-move prediction, and modifying (Neo)Vim to create the world's best code editor for myself.
-There is something truly uncanny about having a machine feel like an extension of self that drives my interest in everything I do.
+I am a software engineer with a PhD in AI specializing in UAVs.
+Originally from Kuala Lumpur, Malaysia, I’m now based in Tokyo, Japan, where I work with Sony AI.
 
-This is not a place I brag about myself - GitHub, LinkedIn, and Google Scholar are there should you so be inclined.
-Instead, I intend to record lesser known things and projects that I'm doing here.
-However, if you insist: [**here's my CV**]({{ site.base_path }}/assets/CV_JUNJETTAI.pdf).
+I’ve had the privilege of contributing to exciting projects like [GT Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/)
+and leading the development on reinforcement learning libraries such as
+[Gymnasium](https://gymnasium.farama.org/), [Atari Learning Environment](https://ale.farama.org/), [PettingZoo](https://pettingzoo.farama.org/) and [Shimmy](https://shimmy.farama.org/) at the Farama Foundation.
+My work focuses on building systems that enhance human capabilities, whether it’s through decision-making AI, intuitive interfaces, or tools that feel like seamless extensions of ourselves.
+
+Outside of work, I enjoy flying FPV drones, playing musical instruments, and dabbling in Dota 2 (I am a Herald, sadly).
+I also keep tropical aquarium fish and stay active through bouldering, badminton, and yoga.
+
+This site is where I share lesser-known projects and ideas I’m exploring.
+For a full overview of my professional background, feel free to check out my [CV]({{ site.base_path }}/assets/CV_JUNJETTAI.pdf).
