@@ -31,12 +31,16 @@ instagram_username: jj_shoots
 
 # Build settings
 # TODO: COMMENT THIS ON REMOTE
-theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# theme: jekyll-theme-clean-blog
+# CHANGE THE BELOW:
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# TO THIS
+remote_theme: jjshoots/jjshoots_website_theme
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 paginate: 5
 paginate_path: "./posts/page:num/"

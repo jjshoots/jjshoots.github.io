@@ -8,7 +8,7 @@ permalink: /about/
 ### (First Name) Jun Jet (Last Name) Tai.
 
 That's for those on the formal side.
-I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
+I hail from the small, lesser known country of Malaysia, where I grew up in its capital --- Kuala Lumpur.
 
 I am a software engineer with a PhD in applied AI for UAVs from [Coventry University](https://www.coventry.ac.uk/).
 Originally from Kuala Lumpur, Malaysia, I’m now based in Tokyo, Japan, where I work with Sony AI.
