@@ -10,7 +10,7 @@ permalink: /about/
 That's for those on the formal side.
 I hail from the small, lesser known country of Malaysia, where I grew up in its capital - Kuala Lumpur.
 
-I am a software engineer with a PhD in AI specializing in UAVs.
+I am a software engineer with a PhD in applied AI for UAVs from [Coventry University](https://www.coventry.ac.uk/).
 Originally from Kuala Lumpur, Malaysia, I’m now based in Tokyo, Japan, where I work with Sony AI.
 
 I’ve had the privilege of contributing to exciting projects like [GT Sophy](https://www.gran-turismo.com/us/gran-turismo-sophy/)
