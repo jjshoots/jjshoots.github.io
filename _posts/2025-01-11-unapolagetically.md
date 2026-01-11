@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Living Life --- Unreasonably, unapolagetically, unwaveringly
+title: Living Life - Unreasonably, Unapolagetically, Unwaveringly
 subtitle: Moving forward with 2026, less resolution, more intention
 author: Jet
-background: /resources/posts/review_2024/tokyo_tower.jpg
+background: /resources/posts/review_2025/hk_3.JPG
 ---
 
 ### This isn't the easiest thing to do
@@ -23,29 +23,43 @@ I really did.
 Perhaps the best kinds of stories are ones where all perspectives are allowed to coexist at once.
 And that is the thread that I will use for this post, written in 2026, serving as my barometer for existence.
 
+<img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_2.jpg" width="60%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Aim to live life once, fully, unapolagetically.</p>
+
 ### We are but narratives of our own reality
 
 2025 was a year of unprecedented personal progress, but also a year of deep personal lows.
+
 My career took off in a direction that finally made meaningful sense to me.
 I'm finally able to apply leverage to my skillset in a way that I can honestly say reduces world suck.
+
 I have an ample amount of time to be around the people I love and who love me.
 I was able to spare no expense in telling people they matter to me --- emotionally, verbally, physically, financially, and I hope, thoughtfully.
+
 I care a lot less about being in public now, social anxiety be damned.
+
 I'm physically active again, more fit than I have ever been.
+
 I travelled more than I thought I would --- nine countries, eleven trips overseas --- and have had experiences that once felt impossible.
+
 I've picked up new hobbies, rekindled old ones, reconnected with old friends, and made some amazing new ones.
 The people who constantly remind me that I should choose to stay in this life.
+
 I also took out a loan for a house on my birthday, so I am now in debt.
+
 For once I feel like I can _see_ the joys of life for the way they are.
 
-I am deeply grateful for my existence and everything that revolves around it, and I thank God every day. I also thank Him for all the downs --- there may be many --- I know there was never doubt I could handle them.
-Rejection is simply redirection.
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_stitched.jpg" width="80%" style="display:block;margin:0 auto;max-height:600px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Perhaps we arrive at heaven when we are born.</p>
 
-The first half of the year came with two heartbreaks.
+But, the first half of the year came with two heartbreaks.
+
 "That's a lof of breakups, actually!", a certain someone once said in a docuseries.
+
 Anxiety, fear, doubt and personal trauma got the better of me at times.
 A few weeks in July were spent just lying in bed, doing nothing.
 Therapy helped loads and I am eternally grateful to have such access to it.
+
 To anyone in similar situations, know that even the bravest of us will take the knee sometimes.
 But it is very important that you get up.
 You may fall again.
@@ -54,30 +68,47 @@ Please.
 And again.
 At the expense of whatever tools you have access to --- get up.
 
-A lot of personal fuel was burned at work this year.
-There's a lot more where it came from and I can do this all day, everyday, but the results sometimes feel... mediocre, even if I am told otherwise.
-I still wonder if I am meant to be doing what I am meant to be doing, if the ceiling was high enough, if I am truly growing my skillset in a direction that feels _aligned_.
-But I also have faith that I am meant to be in this exact coordinate in space-time.
+<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_2.JPG" width="60%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Despair deserves no monopoly on wisdom.</p>
+
+I consumed a lot of personal fuel at work this year.
+There's a lot more where it came from and I can do this all day, everyday.
+But the results sometimes feel... mediocre, even if I am told otherwise.
+
+I still wonder if I am meant to be doing what I am meant to be doing; if the ceiling was high enough; if I am truly growing my skillset in a direction that feels _aligned_.
+But I also have faith that I am meant to be in this _exact_ coordinate in space-time.
 
 I've gained some new friends but have definitely lost a significant number too.
 Some through rough patches.
 Some through the shockwaves.
-Some through distance --- if you're one of them --- reach out.
-I'd love to know how you're doing.
+Some through distance.
+If any of these are you and you feel compelled to reach out --- the door is always open.
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/chiangmai_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">You get way less chances to be kind than to be mean, choose wisely.</p>
 
 Life this year felt less about building potential, but about gaining momentum.
-
 If you saw me having fun, you would never know how riddled with doubt and fear I can be.
-If you saw me sitting in my car crying at night, you'd never know life was going great.
+If you saw me silently crying somewhere, you'd never know life was going great.
 I can be exhausted by life while doing something joyful, and deeply grateful in times of absolute disaster.
+
 The narrative of life is that everything can be true at once.
 The magnitude and angle of our emotions are merely projections of the story we tell ourselves.
 Things are both a lot better and a lot worse than we think it is.
 And that's okay.
-Reality doesn't care for our lives, but we must.
-The juxtaposition of existing in between everything and nothing is, at times, sometimes mesmerizingly beautiful.
 
-Aim to be your own main character. No one is going to do that for you.
+Reality doesn't care for our lives, but we must.
+The juxtaposition of existing in between everything and nothing is, at times, mesmerizingly beautiful.
+
+Aim to be your own main character.
+No one is going to do that for you.
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_2.JPG" width="60%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Emotions are just your evolved biology of predicting the future from the current circumstance --- it is usually wrong.</p>
+
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_7.jpg" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Time is measured by the memories we remember, not by the seconds that drift by.</p>
 
 ### Aim not for safety, but against the risk of not aiming higher
 
@@ -96,6 +127,9 @@ It's not how younger me imagined me now.
 It's not how present me imagines the future.
 
 Stability isn't the goal --- it's the foundation.
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_8.JPG" width="60%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The common practice is not the practical practice.</p>
 
 Despite what everyone tells us, we're so often made to feel like the future is something that we can get wrong.
 The worst part is we're so often unsure about the emotion of wanting something that feels real.
@@ -121,6 +155,12 @@ And you realize you never needed the answers to begin with.
 
 So aim higher, the delusion will always be worth it.
 
+<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_4.JPG" width="80%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The meaning of life is to give life meaning.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_5.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">If you want to live a life where you're excited to win, figure out what winning first looks like for you.</p>
+
 "
 _Reasonable people adapt themselves to the world._
 _Unreasonable ones adapt the world to themselves._
@@ -128,7 +168,100 @@ _Therefore, all progress depends entirely on the unreasonable._
 "
 --- George Bernard Shaw
 
-I’m bracing myself with equal parts excitement and fear to do something completely out of left field in 2026.
-And if you’re reading this --- I’m rooting for you too.
+I'm bracing myself with equal parts excitement and fear to do something completely out of left field in 2026.
+And if you're reading this --- I'm rooting for you too.
 
-If this piece resonated with you, reach out!
+<img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Intrinsic motivation will feel like you're rocket powered; extrinsic motivation means you're constantly playing catch up.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_9.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The true winners are the ones who recognize the game for what it is, and make the conscious decision to step away from it.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The tragedy of life is not that it is short, but that we take so long to begin.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/la_may_1.jpg" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Every instance of love ends in grief. Whether a spouse dies, a relationship ends, or a situationship going sour. Grief is normal, don't pre-celebrate it.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_4.JPG" width="80%" style="display:block;margin:0 auto;max-height:600px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Love willingly, commit sparingly. Never confuse the two.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/catalina_may_1.jpg" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Gain traction without dopamine and make progress without announcement.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_2.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Perfection is someone else's idea of what you should like.</p>
+
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
+
+#### The People
+
+I am deeply grateful for my existence and everything that revolves around it, and I thank God every day.
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20241228_134701.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250129_104522.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250208_215536.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250318_135418.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250421_115410.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250621_124847.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250706_110508.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250716_142142.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250731_140558.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250803_001932(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250822_222855.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250901_161734(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250908_131359.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250914_115318.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250919_223311.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251201_190409.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251204_002139(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251213_224735.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251225_003506.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/chiangmai_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/hk_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/karen_wedding_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/la_may_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_1.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_3.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_14.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_1.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_4.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_6.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/whitewater_rafting_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
+  <img src="{{ site.base_path }}/resources/posts/review_2025/people/whitewater_rafting_2.JPG" style="width: 49%; height: 250px; object-fit: cover;">
+</div>
+
+All thoughts and opinions are mine and do not represent that of any entities I've been a part of this year.
