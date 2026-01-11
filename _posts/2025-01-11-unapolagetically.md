@@ -54,7 +54,7 @@ For once I feel like I can _see_ the joys of life for the way they are.
 
 But, the first half of the year came with two heartbreaks.
 
-"That's a lof of breakups, actually!", a certain someone once said in a docuseries.
+"That's a lot of breakups, actually!", a certain someone once said in a docuseries.
 
 Anxiety, fear, doubt and personal trauma got the better of me at times.
 A few weeks in July were spent just lying in bed, doing nothing.
