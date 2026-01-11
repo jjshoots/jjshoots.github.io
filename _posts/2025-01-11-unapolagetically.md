@@ -221,7 +221,7 @@ Sekian.
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">You like because, you love despite.</p>
     </div>
     <div style="display: inline-block; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" loading="eager" decoding="async" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_7.JPG" loading="eager" decoding="async" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
     </div>
     <div style="display: inline-block; white-space: normal;">
