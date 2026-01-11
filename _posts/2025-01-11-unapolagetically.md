@@ -49,7 +49,7 @@ I also took out a loan for a house on my birthday, so I am now in debt.
 
 For once I feel like I can _see_ the joys of life for the way they are.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_stitched.jpg" width="80%" style="display:block;margin:0 auto;max-height:600px;object-fit:contain;">
+<img src="{{ site.base_path }}/resources/posts/review_2025/hk_stitched.jpg" width="100%" style="display:block;margin:0 auto;max-height:800px;object-fit:contain;">
 <p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Perhaps we arrive at heaven when we are born.</p>
 
 But, the first half of the year came with two heartbreaks.
@@ -68,9 +68,6 @@ Please.
 And again.
 At the expense of whatever tools you have access to --- get up.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_2.JPG" width="60%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Despair deserves no monopoly on wisdom.</p>
-
 I consumed a lot of personal fuel at work this year.
 There's a lot more where it came from and I can do this all day, everyday.
 But the results sometimes feel... mediocre, even if I am told otherwise.
@@ -84,8 +81,31 @@ Some through the shockwaves.
 Some through distance.
 If any of these are you and you feel compelled to reach out --- the door is always open.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/chiangmai_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">You get way less chances to be kind than to be mean, choose wisely.</p>
+<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
+  <div style="display: inline-flex; gap: 20px;">
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Despair deserves no monopoly on wisdom.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Emotions are just your evolved biology of predicting the future from the current circumstance — it is usually wrong.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_7.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Time is measured by the memories we remember, not by the seconds that drift by.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_9.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The true winners are the ones who recognize the game for what it is, and make the conscious decision to step away from it.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Perfection is someone else's idea of what you should like.</p>
+    </div>
+  </div>
+</div>
+<p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
 
 Life this year felt less about building potential, but about gaining momentum.
 If you saw me having fun, you would never know how riddled with doubt and fear I can be.
@@ -102,13 +122,6 @@ The juxtaposition of existing in between everything and nothing is, at times, me
 
 Aim to be your own main character.
 No one is going to do that for you.
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_2.JPG" width="60%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Emotions are just your evolved biology of predicting the future from the current circumstance --- it is usually wrong.</p>
-
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_7.jpg" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Time is measured by the memories we remember, not by the seconds that drift by.</p>
 
 ### Aim not for safety, but against the risk of not aiming higher
 
@@ -129,7 +142,7 @@ It's not how present me imagines the future.
 Stability isn't the goal --- it's the foundation.
 
 <img src="{{ site.base_path }}/resources/posts/review_2025/hk_8.JPG" width="60%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The common practice is not the practical practice.</p>
+<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The common practice is not always the practical practice.</p>
 
 Despite what everyone tells us, we're so often made to feel like the future is something that we can get wrong.
 The worst part is we're so often unsure about the emotion of wanting something that feels real.
@@ -155,11 +168,31 @@ And you realize you never needed the answers to begin with.
 
 So aim higher, the delusion will always be worth it.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_4.JPG" width="80%" style="display:block;margin:0 auto;max-height:700px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The meaning of life is to give life meaning.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_5.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">If you want to live a life where you're excited to win, figure out what winning first looks like for you.</p>
+<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
+  <div style="display: inline-flex; gap: 20px;">
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_4.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The meaning of life is to give life meaning.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_5.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">If you want to live a life where you're excited to win, figure out what winning first looks like for you.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Intrinsic motivation will feel like you're rocket powered; extrinsic motivation means you're constantly playing catch up.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The tragedy of life is not that it is short, but that we take so long to begin.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/catalina_may_1.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Gain traction without dopamine and make progress without announcement.</p>
+    </div>
+  </div>
+</div>
+<p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
 
 "
 _Reasonable people adapt themselves to the world._
@@ -171,29 +204,29 @@ _Therefore, all progress depends entirely on the unreasonable._
 I'm bracing myself with equal parts excitement and fear to do something completely out of left field in 2026.
 And if you're reading this --- I'm rooting for you too.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Intrinsic motivation will feel like you're rocket powered; extrinsic motivation means you're constantly playing catch up.</p>
+Sekian.
 
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_9.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The true winners are the ones who recognize the game for what it is, and make the conscious decision to step away from it.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_1.JPG" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">The tragedy of life is not that it is short, but that we take so long to begin.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/la_may_1.jpg" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Every instance of love ends in grief. Whether a spouse dies, a relationship ends, or a situationship going sour. Grief is normal, don't pre-celebrate it.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_4.JPG" width="80%" style="display:block;margin:0 auto;max-height:600px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Love willingly, commit sparingly. Never confuse the two.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/catalina_may_1.jpg" width="80%" style="display:block;margin:0 auto;max-height:540px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Gain traction without dopamine and make progress without announcement.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_2.JPG" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Perfection is someone else's idea of what you should like.</p>
-
-<img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" width="80%" style="display:block;margin:0 auto;max-height:480px;object-fit:contain;">
-<p style="text-align: center; margin-top: 5px; margin-bottom: 1em; color: #666;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
+<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
+  <div style="display: inline-flex; gap: 20px;">
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/chiangmai_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">You get way less chances to be kind than to be mean, choose wisely.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_may_1.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Every instance of love ends in grief. Whether a spouse dies, a relationship ends, or a situationship going sour. Grief is normal, don't pre-celebrate it.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_4.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">You like because, you love despite.</p>
+    </div>
+    <div style="display: inline-block; width: 380px; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
+    </div>
+  </div>
+</div>
+<p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
 
 #### The People
 
