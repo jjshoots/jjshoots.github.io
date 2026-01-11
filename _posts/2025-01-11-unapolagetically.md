@@ -115,7 +115,7 @@ I can be exhausted by life while doing something joyful, and deeply grateful in 
 The narrative of life is that everything can be true at once.
 The magnitude and angle of our emotions are merely projections of the story we tell ourselves.
 Things are both a lot better and a lot worse than we think it is.
-And that's okay.
+And that's okay.[<sup>*</sup>]({{ site.base_path }}/resources/posts/review_2025/okay.txt)
 
 Reality doesn't care for our lives, but we must.
 The juxtaposition of existing in between everything and nothing is, at times, mesmerizingly beautiful.
