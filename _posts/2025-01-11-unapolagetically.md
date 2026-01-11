@@ -224,6 +224,10 @@ Sekian.
       <img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" loading="eager" decoding="async" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
     </div>
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_13.jpg" loading="eager" decoding="async" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
+      <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Love willingly, commit sparingly. Never confuse the two.</p>
+    </div>
   </div>
 </div>
 <p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
