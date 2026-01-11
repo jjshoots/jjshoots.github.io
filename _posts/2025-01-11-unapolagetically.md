@@ -82,25 +82,25 @@ Some through distance.
 If any of these are you and you feel compelled to reach out --- the door is always open.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
-  <div style="display: inline-flex; gap: 20px;">
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+  <div style="display: inline-flex; gap: 20px; align-items: flex-start;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_2.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Despair deserves no monopoly on wisdom.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_2.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Emotions are just your evolved biology of predicting the future from the current circumstance — it is usually wrong.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_7.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/tokyo_march_7.jpg" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Time is measured by the memories we remember, not by the seconds that drift by.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_9.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_9.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The true winners are the ones who recognize the game for what it is, and make the conscious decision to step away from it.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_2.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_2.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Perfection is someone else's idea of what you should like.</p>
     </div>
   </div>
@@ -169,25 +169,25 @@ And you realize you never needed the answers to begin with.
 So aim higher, the delusion will always be worth it.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
-  <div style="display: inline-flex; gap: 20px;">
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_4.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+  <div style="display: inline-flex; gap: 20px; align-items: flex-start;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_4.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The meaning of life is to give life meaning.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_5.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_5.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">If you want to live a life where you're excited to win, figure out what winning first looks like for you.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_dec_1.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Intrinsic motivation will feel like you're rocket powered; extrinsic motivation means you're constantly playing catch up.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/seoul_may_1.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">The tragedy of life is not that it is short, but that we take so long to begin.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/catalina_may_1.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/catalina_may_1.jpg" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Gain traction without dopamine and make progress without announcement.</p>
     </div>
   </div>
@@ -207,21 +207,21 @@ And if you're reading this --- I'm rooting for you too.
 Sekian.
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
-  <div style="display: inline-flex; gap: 20px;">
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/chiangmai_1.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+  <div style="display: inline-flex; gap: 20px; align-items: flex-start;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/chiangmai_1.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">You get way less chances to be kind than to be mean, choose wisely.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/la_may_1.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/la_may_1.jpg" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Every instance of love ends in grief. Whether a spouse dies, a relationship ends, or a situationship going sour. Grief is normal, don't pre-celebrate it.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_4.JPG" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_4.JPG" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">You like because, you love despite.</p>
     </div>
-    <div style="display: inline-block; width: 380px; white-space: normal;">
-      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <div style="display: inline-block; white-space: normal;">
+      <img src="{{ site.base_path }}/resources/posts/review_2025/hk_10.jpg" style="height: 500px; width: auto; object-fit: contain; border-radius: 8px;">
       <p style="text-align: center; margin-top: 10px; color: #666; font-size: 0.9em;">Assume you like things. Don't miss out on the garden because you found a flaw at the gate.</p>
     </div>
   </div>
@@ -234,6 +234,7 @@ I am deeply grateful for my existence and everything that revolves around it, an
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
   <div style="display: inline-flex; gap: 15px; align-items: center;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20241228_134701.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_1.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_2.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_3.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
@@ -265,7 +266,6 @@ I am deeply grateful for my existence and everything that revolves around it, an
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251204_002139(0).jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251213_224735.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
     <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251225_003506.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
-    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20241228_134701.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
   </div>
 </div>
 <p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
