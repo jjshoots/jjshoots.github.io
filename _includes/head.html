@@ -22,4 +22,14 @@
 
   <!-- favicon -->
   <link rel="icon" href="{{ site.baseurl }}/resources/icons/jet_filled.png" type="image/png" />
+
+  <!-- Disable lazy loading globally for smoother scrolling -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      document.querySelectorAll('img').forEach(img => {
+        img.setAttribute('loading', 'eager');
+        img.setAttribute('decoding', 'async');
+      });
+    });
+  </script>
 </head>
