@@ -232,69 +232,42 @@ Sekian.
 
 I am deeply grateful for my existence and everything that revolves around it, and I thank God every day.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20241228_134701.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250129_104522.jpg" style="width: 49%; height: 250px; object-fit: cover;">
+<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 2em 0; padding: 1em 0;">
+  <div style="display: inline-flex; gap: 15px; align-items: center;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_1.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_2.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_3.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250129_104522.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250208_215536.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_1.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_4.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_6.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_14.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250318_134915(1).jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250421_115410.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/la_may_2.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250522_181439.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250621_124847.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250706_110508.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250716_142142.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250731_140558.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250803_001932(0).jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250822_222855.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250901_161734(0).jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250908_131359.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250914_115318.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250919_223311.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/hk_1.JPG" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/chiangmai_2.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/karen_wedding_1.JPG" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/whitewater_rafting_2.JPG" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251201_190409.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251204_002139(0).jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251213_224735.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251225_003506.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+    <img src="{{ site.base_path }}/resources/posts/review_2025/people/20241228_134701.jpg" style="display: inline-block; height: 380px; width: auto; object-fit: contain; border-radius: 8px;">
+  </div>
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250208_215536.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250318_135418.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250421_115410.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250621_124847.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250706_110508.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250716_142142.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250731_140558.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250803_001932(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250822_222855.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250901_161734(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250908_131359.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250914_115318.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20250919_223311.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251201_190409.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251204_002139(0).jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251213_224735.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/20251225_003506.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/chiangmai_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/hk_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/karen_wedding_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/la_may_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_1.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_2.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/thailand_january_3.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_14.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_1.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_4.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/tokyo_march_6.jpg" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/whitewater_rafting_1.JPG" style="width: 49%; height: 250px; object-fit: cover;">
-  <img src="{{ site.base_path }}/resources/posts/review_2025/people/whitewater_rafting_2.JPG" style="width: 49%; height: 250px; object-fit: cover;">
-</div>
+<p style="text-align: center; color: #999; font-size: 0.85em; margin-top: -0.5em; margin-bottom: 1.5em;">← Scroll to explore →</p>
 
 All thoughts and opinions are mine and do not represent that of any entities I've been a part of this year.
